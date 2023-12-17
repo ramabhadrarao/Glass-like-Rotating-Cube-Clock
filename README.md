@@ -34,7 +34,7 @@ Feel free to adjust sizes, colors, or timings to customize the cube's appearance
 
 To use the code, simply copy the HTML, CSS, and JavaScript snippets into your project files.
 
-### Example
+### Code
 
 ```html
 <!DOCTYPE html>
