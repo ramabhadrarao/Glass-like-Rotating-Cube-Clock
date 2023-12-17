@@ -1,7 +1,7 @@
 # Glass-like Rotating Cube Clock
 
 This repository contains code to create a glass-like rotating cube that functions as a clock. It utilizes HTML, CSS, and JavaScript to produce an animated 3D cube displaying the current time on its faces.
-![output image](./Glass-like-Rotating-Cube-Clock/output.png))
+![output image](./output.png))
 
 ## Description
 
